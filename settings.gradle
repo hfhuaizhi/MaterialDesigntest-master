@@ -1,1 +1,1 @@
-include ':app', ':logintest', ':tabtest'
+include ':app', ':logintest', ':tabtest', ':toolbar1', ':toorbartest1'

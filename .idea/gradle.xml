@@ -11,6 +11,8 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/logintest" />
             <option value="$PROJECT_DIR$/tabtest" />
+            <option value="$PROJECT_DIR$/toolbar1" />
+            <option value="$PROJECT_DIR$/toorbartest1" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
